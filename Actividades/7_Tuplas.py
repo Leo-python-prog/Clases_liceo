@@ -69,7 +69,7 @@ mi_tupla = (1, 2, 3, "hola", True)
 print(mi_tupla.index("hola"))  # Resultado: 3
 
 # Ejemplo Práctico
-# Aquí tienes un ejemplo que utiliza varios conceptos de tuplas:
+# Este ejemplo que utiliza varios conceptos de tuplas:
 
 # Creación de una tupla
 mi_tupla = (10, 20, 30, 40, 50)
